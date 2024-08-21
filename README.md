@@ -1,8 +1,9 @@
 # SE_Day1
-Software Engineering Day1 Assignment
+Software Engineering Day1 Assignment 
+is the branch of computer scince that deals with the desigh, development, testing, and maintanance of software application
 
 #Part 1: Introduction to Software Engineering
-
+software is the set of instructions, data or progans used to operate computers and execute specific tasks.
 Explain what software engineering is and discuss its importance in the technology industry.
 
 
